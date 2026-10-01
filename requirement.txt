@@ -1,5 +1,0 @@
-Streamlit
-google-genai
-python-dotenv
-pypdf
-chromadb
